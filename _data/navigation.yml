@@ -10,8 +10,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Experience"
-    url: "/#-working-and-teaching-experience"
+  - title: "Working/Teaching"
+    url: "/#-working/teaching"
 
   - title: "Education"
     url: "/#-education"

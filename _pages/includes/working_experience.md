@@ -1,4 +1,4 @@
-# 🛠️ Working and Teaching Experience
+# 🛠️ Working/Teaching
 
 - *2024.11 - Now*, Postdoctoral Research Fellow, Univeristy of New South Wales, Sydney, Australia
 - *2021 - 2024*, Casual Academic and Teaching Assistant.
