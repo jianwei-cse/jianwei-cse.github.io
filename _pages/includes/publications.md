@@ -1,0 +1,19 @@
+# 📄 Publications
+
+**(* indicates corresponding author)**
+
+* preprint and under review:
+  + **Jianwei Wang**, Yuehai Wang, Kai Wang\*, Xuemin Lin, Wenjie Zhang, and Ying Zhang. [Ensemble-based Deep Multilayer Community Search](https://arxiv.org/abs/2501.02194).
+  + Mengshi Chen, Yuxiang Sun, Tengchao Li, **Jianwei Wang\***, Kai Wang, Wenjie Zhang, Ying Zhang, and Xuemin Lin. [Orchestrating Large Language Models for Data Preparation: A Survey](). 
+  + Jingye Zhao, Jianan Shen, **Jianwei Wang\***, Tianyuan Zhou, Ruijia Wu, Kai Wang, and Xuemin Lin. [Account Risk Detection in Large-Scale Financial Graphs with Auxiliary Asset Prediction]().
+  + **Jianwei Wang**, Mengqi Wang, Yinsi Zhou, Zhenchang Xing, Qing Liu, Xiwei Xu, Wenjie Zhang, and Liming Zhu. [LM-based HSE Compliance Assessment: Benchmark, Performance, and Advancements](https://arxiv.org/pdf/2505.22959). 
+
+* 2025:
+  + **Jianwei Wang**, Kai Wang\*, Ying Zhang, Wenjie Zhang, Xiwei Xu, and Xuemin Lin\*. [On LLM-Enhanced Mixed-Type Data Imputation with High-Order Message Passing](). <u> VLDB (Under revision).</u>
+  + Mo Zhou, **Jianwei Wang\***, Xuanmeng Zhang, Dylan Campbell, Kai Wang, Long Yuan, Wenjie Zhang, and Xuemin Lin\*. [ProbDiffFlow: An Efficient Learning-Free Framework for Probabilistic Single-Image Optical Flow Estimation](). <u>Frontiers of Computer Science.</u>
+  + Jiawei Zhou, Kai Wang\*, **Jianwei Wang**, Kunpeng Zhang, and Xuemin Lin. [COMET: An Interactive Framework for Efficient and Effective Community Search via Active Learning](). <u>INFORMS Journal on Computing.</u>
+
+* 2024:
+  + **Jianwei Wang**, Kai Wang\*, Xuemin Lin, Wenjie Zhang, and Ying Zhang. [Efficient Unsupervised Community Search with Pre-trained Graph Transformer](https://www.vldb.org/pvldb/vol17/p2227-wang.pdf). <u>VLDB.</u>
+  + **Jianwei Wang**, Ying Zhang\*, Kai Wang\*, Xuemin Lin, and Wenjie Zhang. [Missing Data Imputation with Uncertainty-Driven Network](https://dl.acm.org/doi/10.1145/3654920). <u>SIGMOD.</u>
+  + **Jianwei Wang**, Kai Wang\*, Xuemin Lin, Wenjie Zhang, and Ying Zhang. [Neural Attributed Community Search at Billion Scale](https://arxiv.org/abs/2403.18874). <u>SIGMOD.</u>
