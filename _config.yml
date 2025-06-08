@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jianwei's Homepage"
 description              : "Postdoctoral research fellow at UNSW Sydney"
-repository               : "guaiyoui/guaiyoui.github.io/"
+repository               : "jianwei-cse/jianwei-cse.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : guaiyoui # e.g., "github username"
+  github           : jianwei-cse # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        : 

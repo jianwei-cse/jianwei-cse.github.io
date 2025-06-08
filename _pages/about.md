@@ -15,7 +15,6 @@ redirect_from:
 
 {% include_relative includes/publications.md %}
 
-
 {% include_relative includes/working_experience.md %}
 
 {% include_relative includes/education.md %}
