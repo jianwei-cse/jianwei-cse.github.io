@@ -4,4 +4,4 @@ He received his B.Eng. degree in Chu Kochen Honors College from Zhejiang Univers
 
 His current research focuses on data management and data quality, particularly on techniques based on graph-language foundation models for accurate, automatic, and efficient data preparation.
 
-**Two to three fully funded PhD scholarships are available at UNSW. If you are interested in pursuing a Master’s, MPhil, or PhD degree in big data preparation and management in UNSW, please feel free to get in touch.**.
+**Two to three fully funded PhD scholarships are available at UNSW. If you are interested in pursuing a Master’s, MPhil, or PhD degree in big data preparation and management in UNSW, please feel free to get in touch.**
