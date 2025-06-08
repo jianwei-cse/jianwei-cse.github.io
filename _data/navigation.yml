@@ -10,11 +10,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Working Experience"
+  - title: "Working and Teaching Experience"
     url: "/#-working_experience"
 
   - title: "Education"
     url: "/#-education"
 
-  - title: "Service"
+  - title: "Professional Service"
     url: "/#-service"
+  
+  - title: "Awards"
+    url: "/#-awards"
