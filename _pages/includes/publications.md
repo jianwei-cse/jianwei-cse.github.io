@@ -8,9 +8,9 @@
   + **Jianwei Wang**, Mengqi Wang, Yinsi Zhou, Zhenchang Xing, Qing Liu, Xiwei Xu, Wenjie Zhang, and Liming Zhu. [LM-based HSE Compliance Assessment: Benchmark, Performance, and Advancements](https://arxiv.org/pdf/2505.22959). 
 
 * 2025:
-  + **Jianwei Wang**, Kai Wang\*, Ying Zhang\*, Wenjie Zhang, Xiwei Xu, and Xuemin Lin. [On LLM-Enhanced Mixed-Type Data Imputation with High-Order Message Passing](). <u> VLDB.</u>
-  + Mo Zhou, **Jianwei Wang\***, Xuanmeng Zhang, Dylan Campbell, Kai Wang, Long Yuan, Wenjie Zhang, and Xuemin Lin\*. [ProbDiffFlow: An Efficient Learning-Free Framework for Probabilistic Single-Image Optical Flow Estimation](). <u>Frontiers of Computer Science.</u>
-  + Jiawei Zhou, Kai Wang\*, **Jianwei Wang**, Kunpeng Zhang, and Xuemin Lin. [COMET: An Interactive Framework for Efficient and Effective Community Search via Active Learning](). <u>INFORMS Journal on Computing.</u>
+  + **Jianwei Wang**, Kai Wang\*, Ying Zhang\*, Wenjie Zhang, Xiwei Xu, and Xuemin Lin. [On LLM-Enhanced Mixed-Type Data Imputation with High-Order Message Passing](https://arxiv.org/abs/2501.02191). <u> VLDB.</u>
+  + Mo Zhou, **Jianwei Wang\***, Xuanmeng Zhang, Dylan Campbell, Kai Wang, Long Yuan, Wenjie Zhang, and Xuemin Lin\*. [ProbDiffFlow: An Efficient Learning-Free Framework for Probabilistic Single-Image Optical Flow Estimation](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-50259-6). <u>Frontiers of Computer Science.</u>
+  + Jiawei Zhou, Kai Wang\*, **Jianwei Wang**, Kunpeng Zhang, and Xuemin Lin. [COMET: An Interactive Framework for Efficient and Effective Community Search via Active Learning](https://pubsonline.informs.org/doi/suppl/10.1287/ijoc.2024.0834). <u>INFORMS Journal on Computing.</u>
   + Jingye Zhao, Jianan Shen, **Jianwei Wang\***, Tianyuan Zhou, Ruijia Wu, Kai Wang, and Xuemin Lin. [Account Risk Detection in Large-Scale Financial Graphs with Auxiliary Asset Prediction](). <u>TKDE (Under revision).</u>
 
 * 2024:
