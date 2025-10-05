@@ -3,6 +3,8 @@
 **(* indicates corresponding author)**
 
 * preprint and under review:
+  + Tianyuan Zhou, **Jianwei Wang**, Shuo Zhang, Kai Wang, Ying Zhang, Wenjie Zhang. [Multivariate Time Series Imputation with Signal-Noise Disentangled Graph Propagation](). 
+  + Mengshi Chen, **Jianwei Wang**, Kai Wang, Tengchao Li, Ruijia Wu, Xuemin Lin, Wenjie Zhang . [EMFI: EM-Driven Node Feature Imputation with Context-Aware Information Enhancement](). 
   + **Jianwei Wang**, Yuehai Wang, Kai Wang\*, Xuemin Lin, Wenjie Zhang, and Ying Zhang. [Ensemble-based Deep Multilayer Community Search](https://arxiv.org/abs/2501.02194).
   + Mengshi Chen, Yuxiang Sun, Tengchao Li, **Jianwei Wang\***, Kai Wang, Wenjie Zhang, Ying Zhang, and Xuemin Lin. [Orchestrating Large Language Models for Data Preparation: A Survey](). 
   + **Jianwei Wang**, Mengqi Wang, Yinsi Zhou, Zhenchang Xing, Qing Liu, Xiwei Xu, Wenjie Zhang, and Liming Zhu. [LLM-based HSE Compliance Assessment: Benchmark, Performance, and Advancements](https://arxiv.org/pdf/2505.22959). 
