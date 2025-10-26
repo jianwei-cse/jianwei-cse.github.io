@@ -7,7 +7,8 @@
   + Mengshi Chen, **Jianwei Wang**, Kai Wang, Tengchao Li, Ruijia Wu, Xuemin Lin, Wenjie Zhang . [EMFI: EM-Driven Node Feature Imputation with Context-Aware Information Enhancement](). 
   + **Jianwei Wang**, Yuehai Wang, Kai Wang\*, Xuemin Lin, Wenjie Zhang, and Ying Zhang. [Ensemble-based Deep Multilayer Community Search](https://arxiv.org/abs/2501.02194).
   + Mengshi Chen, Yuxiang Sun, Tengchao Li, **Jianwei Wang\***, Kai Wang, Wenjie Zhang, Ying Zhang, and Xuemin Lin. [Orchestrating Large Language Models for Data Preparation: A Survey](). 
-  + **Jianwei Wang**, Mengqi Wang, Yinsi Zhou, Zhenchang Xing, Qing Liu, Xiwei Xu, Wenjie Zhang, and Liming Zhu. [LLM-based HSE Compliance Assessment: Benchmark, Performance, and Advancements](https://arxiv.org/pdf/2505.22959). 
+  + **Jianwei Wang**, Mengqi Wang, Yinsi Zhou, Zhenchang Xing, Qing Liu, Xiwei Xu, Wenjie Zhang, and Liming Zhu. [LLM-based HSE Compliance Assessment: Benchmark, Performance, and Advancements](https://arxiv.org/pdf/2505.22959).
+  + Jiawei Zhou, Ruicheng Zhu, Mengshi Chen, **Jianwei Wang**, and Kai Wang. [AutoResearcher: Automating Knowledge-Grounded and Transparent Research Ideation with Multi-Agent Collaboration](https://github.com/valleysprings/AutoResearcher)
 
 * 2025:
   + **Jianwei Wang**, Kai Wang\*, Ying Zhang\*, Wenjie Zhang, Xiwei Xu, and Xuemin Lin. [On LLM-Enhanced Mixed-Type Data Imputation with High-Order Message Passing](https://arxiv.org/abs/2501.02191). <u> VLDB.</u>
