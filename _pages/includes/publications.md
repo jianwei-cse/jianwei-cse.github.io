@@ -3,7 +3,7 @@
 **(* indicates corresponding author)**
 
 * preprint and under review:
-  + Mengqi Wang, **Jianwei Wang**, Qing Liu, Xiwei Xu, Zhenchang Xing, Liming Zhu, Wenjie Zhang. [Ensembling LLM-Induced Decision Trees for Explainable and Robust Error Detection](). 
+  + Mengqi Wang, **Jianwei Wang\***, Qing Liu, Xiwei Xu, Zhenchang Xing, Liming Zhu, Wenjie Zhang. [Ensembling LLM-Induced Decision Trees for Explainable and Robust Error Detection](). 
   + Tianyuan Zhou, **Jianwei Wang**, Shuo Zhang, Kai Wang, Ying Zhang, Wenjie Zhang. [Multivariate Time Series Imputation with Signal-Noise Disentangled Graph Propagation](). 
   + Mengshi Chen, **Jianwei Wang**, Kai Wang, Tengchao Li, Ruijia Wu, Xuemin Lin, Wenjie Zhang . [EMFI: EM-Driven Node Feature Imputation with Context-Aware Information Enhancement](). 
   + **Jianwei Wang**, Yuehai Wang, Kai Wang\*, Xuemin Lin, Wenjie Zhang, and Ying Zhang. [Ensemble-based Deep Multilayer Community Search](https://arxiv.org/abs/2501.02194).
