@@ -3,7 +3,7 @@
 **(* indicates corresponding author)**
 
 * preprint and under review:
-  + Mengqi Wang, **Jianwei Wang\***, Qing Liu, Xiwei Xu, Zhenchang Xing, Liming Zhu, Wenjie Zhang. [Ensembling LLM-Induced Decision Trees for Explainable and Robust Error Detection](). 
+  + Mengqi Wang, **Jianwei Wang\***, Qing Liu, Xiwei Xu, Zhenchang Xing, Liming Zhu, Wenjie Zhang. [Ensembling LLM-Induced Decision Trees for Explainable and Robust Error Detection](https://www.arxiv.org/abs/2512.07246). 
   + Tianyuan Zhou, **Jianwei Wang**, Shuo Zhang, Kai Wang, Ying Zhang, Wenjie Zhang. [Multivariate Time Series Imputation with Signal-Noise Disentangled Graph Propagation](). 
   + Mengshi Chen, **Jianwei Wang**, Kai Wang, Tengchao Li, Ruijia Wu, Xuemin Lin, Wenjie Zhang . [EMFI: EM-Driven Node Feature Imputation with Context-Aware Information Enhancement](). 
   + **Jianwei Wang**, Yuehai Wang, Kai Wang\*, Xuemin Lin, Wenjie Zhang, and Ying Zhang. [Ensemble-based Deep Multilayer Community Search](https://arxiv.org/abs/2501.02194).
@@ -13,9 +13,9 @@
 
 * 2025:
   + **Jianwei Wang**, Kai Wang\*, Ying Zhang\*, Wenjie Zhang, Xiwei Xu, and Xuemin Lin. [On LLM-Enhanced Mixed-Type Data Imputation with High-Order Message Passing](https://arxiv.org/abs/2501.02191). <u> VLDB.</u>
+  + Jingye Zhao, Jianan Shen, **Jianwei Wang\***, Tianyuan Zhou, Ruijia Wu, Kai Wang, and Xuemin Lin. [Account Risk Detection in Large-Scale Financial Graphs with Auxiliary Asset Prediction](). <u>TKDE.</u>
   + Mo Zhou, **Jianwei Wang\***, Xuanmeng Zhang, Dylan Campbell, Kai Wang, Long Yuan, Wenjie Zhang, and Xuemin Lin\*. [ProbDiffFlow: An Efficient Learning-Free Framework for Probabilistic Single-Image Optical Flow Estimation](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-50259-6). <u>Frontiers of Computer Science.</u>
   + Jiawei Zhou, Kai Wang\*, **Jianwei Wang**, Kunpeng Zhang, and Xuemin Lin. [COMET: An Interactive Framework for Efficient and Effective Community Search via Active Learning](https://pubsonline.informs.org/doi/suppl/10.1287/ijoc.2024.0834). <u>INFORMS Journal on Computing (UTD 24).</u>
-  + Jingye Zhao, Jianan Shen, **Jianwei Wang\***, Tianyuan Zhou, Ruijia Wu, Kai Wang, and Xuemin Lin. [Account Risk Detection in Large-Scale Financial Graphs with Auxiliary Asset Prediction](). <u>TKDE (Under revision).</u>
 
 * 2024:
   + **Jianwei Wang**, Kai Wang\*, Xuemin Lin, Wenjie Zhang, and Ying Zhang. [Efficient Unsupervised Community Search with Pre-trained Graph Transformer](https://www.vldb.org/pvldb/vol17/p2227-wang.pdf). <u>VLDB.</u>
