@@ -11,4 +11,4 @@ His current research focuses on trustworthy data management and data quality, pa
 * 1: Graph-enhanced foundation models for data preparation and management.
 * 2: Multimodal data preparation and management.
 * 3: Reinforced data training and quality optimization.
-* 4: Explainable data preparation and interdisciplinary application, especially for quantum error correction, marketing strategy, biological drug design, financial security, and more. 
+* 4: Neuro-Symbolic AI for explainable data preparation and interdisciplinary application, especially for quantum error correction, marketing strategy, biological drug design, financial security, and more. 
