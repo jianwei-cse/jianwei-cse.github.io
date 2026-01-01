@@ -3,9 +3,10 @@
 **(* indicates corresponding author)**
 
 * preprint and under review:
+  + Shiyuan Liu, **Jianwei Wang\***, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang. [HyperJoin: LLM-augmented Hypergraph Link Prediction for Joinable Table Discovery](). 
   + Mengqi Wang, **Jianwei Wang\***, Qing Liu, Xiwei Xu, Zhenchang Xing, Liming Zhu, Wenjie Zhang. [Ensembling LLM-Induced Decision Trees for Explainable and Robust Error Detection](https://www.arxiv.org/abs/2512.07246). 
   + Tianyuan Zhou, **Jianwei Wang**, Shuo Zhang, Kai Wang, Ying Zhang, Wenjie Zhang. [Multivariate Time Series Imputation with Signal-Noise Disentangled Graph Propagation](). 
-  + Mengshi Chen, **Jianwei Wang**, Kai Wang, Tengchao Li, Ruijia Wu, Xuemin Lin, Wenjie Zhang . [EMFI: EM-Driven Node Feature Imputation with Context-Aware Information Enhancement](). 
+  + Mengshi Chen, **Jianwei Wang**, Kai Wang, Tengchao Li, Ruijia Wu, Xuemin Lin, Wenjie Zhang . [Graph Feature Imputation with Joint Latent-Space Alignment and Data-Space Denoising](). 
   + **Jianwei Wang**, Yuehai Wang, Kai Wang\*, Xuemin Lin, Wenjie Zhang, and Ying Zhang. [Ensemble-based Deep Multilayer Community Search](https://arxiv.org/abs/2501.02194).
   + Mengshi Chen, Yuxiang Sun, Tengchao Li, **Jianwei Wang\***, Kai Wang, Wenjie Zhang, Ying Zhang, and Xuemin Lin. [Empowering Tabular Data Preparation with Language Models: Why and How?](https://arxiv.org/abs/2508.01556). 
   + **Jianwei Wang**, Mengqi Wang, Yinsi Zhou, Zhenchang Xing, Qing Liu, Xiwei Xu, Wenjie Zhang, and Liming Zhu. [LLM-based HSE Compliance Assessment: Benchmark, Performance, and Advancements](https://arxiv.org/pdf/2505.22959).
