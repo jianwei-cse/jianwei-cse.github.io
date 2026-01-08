@@ -8,7 +8,7 @@ His current research focuses on trustworthy data management and data quality, pa
 
 
 **Topic of Interest:**
-* 1: Graph-enhanced foundation models for data preparation and management.
+* 1: Relational deep learning and reasoning (especially the graph-enhanced foundation models) for data preparation and management.
 * 2: Multimodal data preparation and management.
 * 3: Reinforced data training and quality optimization.
 * 4: Neuro-Symbolic AI for explainable data preparation and interdisciplinary application, especially for quantum error correction, marketing strategy, biological drug design, financial security, and more. 
