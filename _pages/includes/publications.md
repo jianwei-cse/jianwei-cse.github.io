@@ -13,7 +13,7 @@
   
 
 * 2026:
-  + Jiawei Zhou, Ruicheng Zhu, Mengshi Chen, **Jianwei Wang\***, and Kai Wang\*. [TrustResearcher: Automating Knowledge-Grounded and Transparent Research Ideation with Multi-Agent Collaboration](https://arxiv.org/abs/2510.20844) <u> WWW demo.</u>
+  + Jiawei Zhou, Ruicheng Zhu, Mengshi Chen, **Jianwei Wang\***, and Kai Wang\*. [TrustResearcher: Automating Knowledge-Grounded and Transparent Research Ideation with Multi-Agent Collaboration.](https://arxiv.org/abs/2510.20844) <u> WWW demo.</u>
 
 * 2025:
   + **Jianwei Wang**, Kai Wang\*, Ying Zhang\*, Wenjie Zhang, Xiwei Xu, and Xuemin Lin. [On LLM-Enhanced Mixed-Type Data Imputation with High-Order Message Passing](https://arxiv.org/abs/2501.02191). <u> VLDB.</u>
