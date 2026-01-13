@@ -10,7 +10,10 @@
   + **Jianwei Wang**, Yuehai Wang, Kai Wang\*, Xuemin Lin, Wenjie Zhang, and Ying Zhang. [Ensemble-based Deep Multilayer Community Search](https://arxiv.org/abs/2501.02194).
   + Mengshi Chen, Yuxiang Sun, Tengchao Li, **Jianwei Wang\***, Kai Wang, Wenjie Zhang, Ying Zhang, and Xuemin Lin. [Empowering Tabular Data Preparation with Language Models: Why and How?](https://arxiv.org/abs/2508.01556). 
   + **Jianwei Wang**, Mengqi Wang, Yinsi Zhou, Zhenchang Xing, Qing Liu, Xiwei Xu, Wenjie Zhang, and Liming Zhu. [LLM-based HSE Compliance Assessment: Benchmark, Performance, and Advancements](https://arxiv.org/pdf/2505.22959).
-  + Jiawei Zhou, Ruicheng Zhu, Mengshi Chen, **Jianwei Wang**, and Kai Wang. [AutoResearcher: Automating Knowledge-Grounded and Transparent Research Ideation with Multi-Agent Collaboration](https://github.com/valleysprings/AutoResearcher)
+  
+
+* 2026:
+  + Jiawei Zhou, Ruicheng Zhu, Mengshi Chen, **Jianwei Wang\***, and Kai Wang\*. [TrustResearcher: Automating Knowledge-Grounded and Transparent Research Ideation with Multi-Agent Collaboration](https://arxiv.org/abs/2510.20844) <u> WWW demo.</u>
 
 * 2025:
   + **Jianwei Wang**, Kai Wang\*, Ying Zhang\*, Wenjie Zhang, Xiwei Xu, and Xuemin Lin. [On LLM-Enhanced Mixed-Type Data Imputation with High-Order Message Passing](https://arxiv.org/abs/2501.02191). <u> VLDB.</u>
