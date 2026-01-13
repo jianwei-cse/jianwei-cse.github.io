@@ -7,7 +7,7 @@ main:
     url: "/#-publications"
 
   - title: "Blogs"
-    url: "/#-blogs"
+    url: "/#blogs"
 
   - title: "Experience"
     url: "/#-working-and-teaching-experience"
