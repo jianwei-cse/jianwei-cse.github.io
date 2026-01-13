@@ -6,6 +6,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Blogs"
+    url: "/#-blogs"
+
   - title: "Experience"
     url: "/#-working-and-teaching-experience"
 
