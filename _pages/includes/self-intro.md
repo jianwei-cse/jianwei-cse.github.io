@@ -1,4 +1,4 @@
-Jianwei Wang is currently a postdoctoral research fellow at Univeristy of New South Wales (UNSW), working with [Prof. Wenjie Zhang](https://cgi.cse.unsw.edu.au/~zhangw/), [Prof. Xuemin Lin](https://scholar.google.com.au/citations?user=j6rglkYAAAAJ&hl=en), [Prof. Ying Zhang](https://scholar.google.com.au/citations?user=9LTwX4cAAAAJ&hl=zh-CN), [Prof. Kai Wang](https://cs-kaiwang.github.io/). 
+Jianwei Wang is currently a postdoctoral research fellow at University of New South Wales (UNSW), working with [Prof. Wenjie Zhang](https://cgi.cse.unsw.edu.au/~zhangw/), [Prof. Xuemin Lin](https://scholar.google.com.au/citations?user=j6rglkYAAAAJ&hl=en), [Prof. Ying Zhang](https://scholar.google.com.au/citations?user=9LTwX4cAAAAJ&hl=zh-CN), [Prof. Kai Wang](https://cs-kaiwang.github.io/). 
 He received his PhD degree in Computer Science and Engineering from UNSW University in 2025.
 He received his B.Eng. degree in Chu Kochen Honors College from Zhejiang University in 2021. 
 
