@@ -6,6 +6,7 @@ His current research focuses on trustworthy data quality management, particularl
 
 
 **Topic of Interest:**
+* 0: Tabular/relatioanl foundation models.
 * 1: Relational deep learning and reasoning (especially the graph-enhanced foundation models) for data preparation and management.
 * 2: Multimodal data preparation and management.
 * 3: Reinforced data training and quality optimization.
