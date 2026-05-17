@@ -3,18 +3,23 @@
 **(* indicates corresponding author)**
 
 * preprint and under review:
+  + **Jianwei Wang\***, Mengqi Wang, Kai Wang, and Ying Zhang. [From Relational Deep Learning to Relational Deep Reasoning: Foundations, Connections and Opportunities]().
+  + **Jianwei Wang\***, Zihao Xie, Mengqi Wang, Kai Wang, Ying Zhang, and Wenjie Zhang. [TabClinic: Interpretable, Extensible and Accurate Tabular Data Quality Assessment with LLM-Induced Decision Trees]().
+  + **Jianwei Wang\***, Shiyuan Liu, Mo Zhou, Mengqi Wang, Wenjie Zhang, and Ying Zhang. [Toward AI-First Data Management: A Tutorial]().
   + Mo Zhou, **Jianwei Wang\***, Kai Wang, Hye-young Paik, Ying Zhang, Wenjie Zhang. [Multi-Perspective Evidence Synthesis and Reasoning for Unsupervised Multimodal Entity Linking]().
-  + Rongjie Jiang, **Jianwei Wang\***, Gengda Zhao, Chengyang Luo, Kai Wang, Wenjie Zhang. [Advancing Multimodal Agent Reasoning with Long-Term Neuro-Symbolic Memory]().
-  + Aoting Zeng, Kai Wang\*,  **Jianwei Wang\***, Yuxiang Sun, Yizhang He, Wenjie Zhang. [Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes](). 
-  + Shiyuan Liu, **Jianwei Wang\***, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang. [HyperJoin: LLM-augmented Hypergraph Link Prediction for Joinable Table Discovery](). 
-  + Mengqi Wang, **Jianwei Wang\***, Qing Liu, Xiwei Xu, Zhenchang Xing, Liming Zhu, Wenjie Zhang. [Ensembling LLM-Induced Decision Trees for Explainable and Robust Error Detection](https://www.arxiv.org/abs/2512.07246). 
   + Tianyuan Zhou, **Jianwei Wang\***, Shuo Zhang, Kai Wang\*, Ying Zhang, Xuemin Lin. [Multivariate Time Series Imputation with Signal-Noise Disentangled Graph Propagation](). 
   + Mengshi Chen, Kai Wang\*, **Jianwei Wang\***, Tengchao Li, Ruijia Wu, Xuemin Lin, Wenjie Zhang . [Graph Feature Imputation with Joint Latent-Space Alignment and Data-Space Denoising](). 
   + **Jianwei Wang**, Yuehai Wang, Kai Wang\*, Xuemin Lin, Wenjie Zhang, and Ying Zhang. [Ensemble-based Deep Multilayer Community Search](https://arxiv.org/abs/2501.02194).
 
-  
+
+* under revision:
+  + Shiyuan Liu, **Jianwei Wang\***, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang. [HyperJoin: LLM-augmented Hypergraph Link Prediction for Joinable Table Discovery](https://arxiv.org/abs/2601.01015). 
+  + Aoting Zeng, Kai Wang\*,  **Jianwei Wang\***, Yuxiang Sun, Yizhang He, Wenjie Zhang. [Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes](). 
+
 
 * 2026:
+  + Mengqi Wang, **Jianwei Wang\***, Qing Liu, Xiwei Xu, Zhenchang Xing, Liming Zhu, Wenjie Zhang. [Ensembling LLM-Induced Decision Trees for Explainable and Robust Error Detection](https://www.arxiv.org/abs/2512.07246). <u> KDD.</u>
+  + Rongjie Jiang, **Jianwei Wang\***, Gengda Zhao, Chengyang Luo, Kai Wang, Wenjie Zhang. [Advancing Multimodal Agent Reasoning with Long-Term Neuro-Symbolic Memory](https://arxiv.org/abs/2603.15280). <u> KDD.</u>
   + **Jianwei Wang**, Mengqi Wang, Yinsi Zhou, Zhenchang Xing, Qing Liu, Xiwei Xu, Wenjie Zhang, and Liming Zhu. [LLM-based HSE Compliance Assessment: Benchmark, Performance, and Advancements](https://arxiv.org/pdf/2505.22959). <u> FLINCS-ISKE.</u>
   + Mengshi Chen, Yuxiang Sun, Tengchao Li, **Jianwei Wang\***, Kai Wang, Wenjie Zhang, Ying Zhang, and Xuemin Lin. [Empowering Tabular Data Preparation with Language Models: Why and How?](https://arxiv.org/abs/2508.01556). <u> ACL.</u>
   + Jiawei Zhou, Ruicheng Zhu, Mengshi Chen, **Jianwei Wang\***, and Kai Wang\*. [TrustResearcher: Automating Knowledge-Grounded and Transparent Research Ideation with Multi-Agent Collaboration.](https://arxiv.org/abs/2510.20844) <u> WWW demo.</u>
