@@ -23,7 +23,7 @@
 * 2026:
   + Mengqi Wang, **Jianwei Wang\***, Qing Liu, Xiwei Xu, Zhenchang Xing, Liming Zhu, Mike Bain, Wenjie Zhang. [Ensembling LLM-Induced Decision Trees for Explainable and Robust Error Detection](https://www.arxiv.org/abs/2512.07246). <u> KDD.</u>
   + Rongjie Jiang, **Jianwei Wang\***, Gengda Zhao, Chengyang Luo, Kai Wang, Wenjie Zhang. [Advancing Multimodal Agent Reasoning with Long-Term Neuro-Symbolic Memory](https://arxiv.org/abs/2603.15280). <u> KDD.</u>
-  + **Jianwei Wang**, Mengqi Wang, Yinsi Zhou, Zhenchang Xing, Qing Liu, Xiwei Xu, Wenjie Zhang, and Liming Zhu. [LLM-based HSE Compliance Assessment: Benchmark, Performance, and Advancements](https://arxiv.org/pdf/2505.22959). <u> FLINCS-ISKE.</u>
+  + **Jianwei Wang**, Mengqi Wang, Yinsi Zhou, Zhenchang Xing, Qing Liu, Xiwei Xu, Wenjie Zhang, and Liming Zhu. [LLM-based HSE Compliance Assessment: Benchmark, Performance, and Advancements](https://arxiv.org/pdf/2505.22959). <u> FLINCS-ISKE.</u> <span style="color:red">**(Outstanding Paper Award)**</span>
   + Mengshi Chen, Yuxiang Sun, Tengchao Li, **Jianwei Wang\***, Kai Wang, Wenjie Zhang, Ying Zhang, and Xuemin Lin. [Empowering Tabular Data Preparation with Language Models: Why and How?](https://arxiv.org/abs/2508.01556). <u> ACL.</u>
   + Jiawei Zhou, Ruicheng Zhu, Mengshi Chen, **Jianwei Wang\***, and Kai Wang\*. [TrustResearcher: Automating Knowledge-Grounded and Transparent Research Ideation with Multi-Agent Collaboration.](https://arxiv.org/abs/2510.20844) <u> WWW demo.</u>
 
