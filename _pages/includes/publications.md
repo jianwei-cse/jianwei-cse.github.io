@@ -3,6 +3,7 @@
 **(* indicates corresponding author)**
 
 * preprint and under review:
+  + Mengqi Wang, **Jianwei Wang\***, Qing Liu, Xiwei Xu, Zhenchang Xing, Mike Bain, Liming Zhu, Wenjie Zhang. [Interpretable Column Annotation with LLM-Induced Symbolic Materialization].
   + Qian Chen, **Jianwei Wang\***, and Wenjie Zhang. [Collaborative Large and Small Language Models for Accurate and Scalable Data Repair](https://arxiv.org/pdf/2606.17582v1).
   + Junke Zhang, **Jianwei Wang\***, Sishuo Chen, Yizhang He, Qingshuai Feng, Zhengyi Yang. [Evolving Skill-Structured Attack Memory Enhances LLM Jailbreaking](https://arxiv.org/abs/2605.29237).
   + Jiawei Zhou, **Jianwei Wang\***, Chenyu Zhou, Chaojian Shi, Ming Dong, Kai Wang\*. [EvoSQL: Memory-Augmented Critic-Generator Co-Evolution for Text-to-SQL]().
