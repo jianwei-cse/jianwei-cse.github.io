@@ -21,7 +21,7 @@
 
 
 * 2026:
-  + Shiyuan Liu, **Jianwei Wang\***, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang\*. [HyperJoin: LLM-augmented Hypergraph Lin Prediction for Joinable Table Discovery](https://arxiv.org/abs/2601.01015). <u> VLDB. </u>
+  + Shiyuan Liu, **Jianwei Wang\***, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang\*. [HyperJoin: LLM-augmented Hypergraph Link Prediction for Joinable Table Discovery](https://arxiv.org/abs/2601.01015). <u> VLDB. </u>
   + Mengqi Wang, **Jianwei Wang\***, Qing Liu, Xiwei Xu, Zhenchang Xing, Liming Zhu, Mike Bain, Wenjie Zhang. [Ensembling LLM-Induced Decision Trees for Explainable and Robust Error Detection](https://www.arxiv.org/abs/2512.07246). <u> KDD.</u>
   + Rongjie Jiang, **Jianwei Wang\***, Gengda Zhao, Chengyang Luo, Kai Wang, Wenjie Zhang. [Advancing Multimodal Agent Reasoning with Long-Term Neuro-Symbolic Memory](https://arxiv.org/abs/2603.15280). <u> KDD.</u>
   + **Jianwei Wang**, Mengqi Wang, Yinsi Zhou, Zhenchang Xing, Qing Liu, Xiwei Xu, Wenjie Zhang, and Liming Zhu. [LLM-based HSE Compliance Assessment: Benchmark, Performance, and Advancements](https://arxiv.org/pdf/2505.22959). <u> FLINCS-ISKE.</u> <span style="color:red">**(Outstanding Paper Award)**</span>
