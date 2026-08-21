@@ -6,7 +6,6 @@
   + Mengqi Wang, **Jianwei Wang\***, Qing Liu, Xiwei Xu, Zhenchang Xing, Mike Bain, Liming Zhu, Wenjie Zhang. [Interpretable Column Annotation with LLM-Symbolized Decision Process Materialization]().
   + Qian Chen, **Jianwei Wang\***, and Wenjie Zhang. [Collaborative Large and Small Language Models for Accurate and Scalable Data Repair](https://arxiv.org/pdf/2606.17582v1).
   + Junke Zhang, **Jianwei Wang\***, Sishuo Chen, Yizhang He, Qingshuai Feng, Zhengyi Yang. [Evolving Skill-Structured Attack Memory Enhances LLM Jailbreaking](https://arxiv.org/abs/2605.29237).
-  + Jiawei Zhou, **Jianwei Wang\***, Chenyu Zhou, Chaojian Shi, Ming Dong, Kai Wang\*. [EvoSQL: Memory-Augmented Critic-Generator Co-Evolution for Text-to-SQL]().
   + **Jianwei Wang\***, Mengqi Wang, Ying Zhang, and Wenjie Zhang. [From Relational Deep Learning to Relational Deep Reasoning: Foundations, Connections and Opportunities]().
   + **Jianwei Wang\***, Zihao Xie, Mengqi Wang, Kai Wang, Ying Zhang, and Wenjie Zhang. [TabClinic: Interpretable, Extensible and Accurate Tabular Data Quality Assessment with LLM-Induced Decision Trees]().
   + **Jianwei Wang\***, Shiyuan Liu, Mo Zhou, Wenjie Zhang, and Ying Zhang. [Toward AI-First Data Management: A Tutorial]().
@@ -24,6 +23,8 @@
   + Shiyuan Liu, **Jianwei Wang\***, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang\*. [HyperJoin: LLM-augmented Hypergraph Link Prediction for Joinable Table Discovery](https://arxiv.org/abs/2601.01015). <u> VLDB. </u>
   + Mengqi Wang, **Jianwei Wang\***, Qing Liu, Xiwei Xu, Zhenchang Xing, Liming Zhu, Mike Bain, Wenjie Zhang. [Ensembling LLM-Induced Decision Trees for Explainable and Robust Error Detection](https://www.arxiv.org/abs/2512.07246). <u> KDD.</u>
   + Rongjie Jiang, **Jianwei Wang\***, Gengda Zhao, Chengyang Luo, Kai Wang, Wenjie Zhang. [Advancing Multimodal Agent Reasoning with Long-Term Neuro-Symbolic Memory](https://arxiv.org/abs/2603.15280). <u> KDD.</u>
+  + Jiawei Zhou, **Jianwei Wang\***, Chenyu Zhou, Chaojian Shi, Ming Dong, Kai Wang\*. [EvoSQL: Memory-Augmented Critic-Generator Co-Evolution for Text-to-SQL](https://arxiv.org/abs/2607.20489). <u> EMNLP findings.</u>
++ **Jianwei Wang**, Mengqi Wang, Qing Liu, Xiwei Xu, Zhenchang Xing, Liming Zhu, and Wenjie Zhang. [Agentic Open-Domain Tabular Question Answering with Self-Supervised Multi-Table Retriever](). <u> EMNLP findings.</u>
   + **Jianwei Wang**, Mengqi Wang, Yinsi Zhou, Zhenchang Xing, Qing Liu, Xiwei Xu, Wenjie Zhang, and Liming Zhu. [LLM-based HSE Compliance Assessment: Benchmark, Performance, and Advancements](https://arxiv.org/pdf/2505.22959). <u> FLINCS-ISKE.</u> <span style="color:red">**(Outstanding Paper Award)**</span>
   + Mengshi Chen, Yuxiang Sun, Tengchao Li, **Jianwei Wang\***, Kai Wang, Wenjie Zhang, Ying Zhang, and Xuemin Lin. [Empowering Tabular Data Preparation with Language Models: Why and How?](https://arxiv.org/abs/2508.01556). <u> ACL.</u>
   + Jiawei Zhou, Ruicheng Zhu, Mengshi Chen, **Jianwei Wang\***, and Kai Wang\*. [TrustResearcher: Automating Knowledge-Grounded and Transparent Research Ideation with Multi-Agent Collaboration.](https://arxiv.org/abs/2510.20844) <u> WWW demo.</u>
