@@ -15,7 +15,7 @@
 
 * under revision:
   + Aoting Zeng, Kai Wang\*,  **Jianwei Wang\***, Yuxiang Sun, Yizhang He, Wenjie Zhang. [Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes](). 
-  **Jianwei Wang**, Yuehai Wang, Kai Wang\*, Xuemin Lin, Wenjie Zhang, and Ying Zhang. [Ensemble-based Deep Multilayer Community Search](https://arxiv.org/abs/2501.02194).
+  + **Jianwei Wang**, Yuehai Wang, Kai Wang\*, Xuemin Lin, Wenjie Zhang, and Ying Zhang. [Ensemble-based Deep Multilayer Community Search](https://arxiv.org/abs/2501.02194).
 
 * 2026:
   + Shiyuan Liu, **Jianwei Wang\***, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang\*. [HyperJoin: LLM-augmented Hypergraph Link Prediction for Joinable Table Discovery](https://arxiv.org/abs/2601.01015). <u> VLDB. </u>
