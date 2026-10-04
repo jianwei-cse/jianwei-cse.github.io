@@ -3,6 +3,7 @@
 **(* indicates corresponding author)**
 
 * preprint and under review:
+  + Aoting Zeng, Yuxin Du, **Jianwei Wang**, Yizhang He, Shan Jiang, Xuemin Lin, Kai Wang. [Memory as Code: Declarative Retrieval over Codified Long-Term Memory]().
   + Mengqi Wang, **Jianwei Wang\***, Qing Liu, Xiwei Xu, Zhenchang Xing, Mike Bain, Liming Zhu, Wenjie Zhang. [Interpretable Column Annotation with LLM-Symbolized Decision Process Materialization]().
   + Qian Chen, **Jianwei Wang\***, and Wenjie Zhang. [Collaborative Large and Small Language Models for Accurate and Scalable Data Repair](https://arxiv.org/pdf/2606.17582v1).
   + Junke Zhang, **Jianwei Wang\***, Sishuo Chen, Yizhang He, Qingshuai Feng, Zhengyi Yang. [Evolving Skill-Structured Attack Memory Enhances LLM Jailbreaking](https://arxiv.org/abs/2605.29237).
@@ -14,13 +15,13 @@
 
 * under revision:
   + Aoting Zeng, Kai Wang\*,  **Jianwei Wang\***, Yuxiang Sun, Yizhang He, Wenjie Zhang. [Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes](). 
-  + **Jianwei Wang**, Yuehai Wang, Kai Wang\*, Xuemin Lin, Wenjie Zhang, and Ying Zhang. [Ensemble-based Deep Multilayer Community Search](https://arxiv.org/abs/2501.02194).
 
 * 2026:
   + Mengshi Chen, Kai Wang\*, **Jianwei Wang\***, Tengchao Li, Ruijia Wu, Xuemin Lin, Wenjie Zhang. [Graph Feature Imputation with Joint Latent-Space Alignment and Data-Space Denoising](). <u> ICDE. </u>
   + Shiyuan Liu, **Jianwei Wang\***, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang\*. [HyperJoin: LLM-augmented Hypergraph Link Prediction for Joinable Table Discovery](https://arxiv.org/abs/2601.01015). <u> VLDB. </u>
   + Mengqi Wang, **Jianwei Wang\***, Qing Liu, Xiwei Xu, Zhenchang Xing, Liming Zhu, Mike Bain, Wenjie Zhang. [Ensembling LLM-Induced Decision Trees for Explainable and Robust Error Detection](https://www.arxiv.org/abs/2512.07246). <u> KDD.</u>
   + Rongjie Jiang, **Jianwei Wang\***, Gengda Zhao, Chengyang Luo, Kai Wang, Wenjie Zhang. [Advancing Multimodal Agent Reasoning with Long-Term Neuro-Symbolic Memory](https://arxiv.org/abs/2603.15280). <u> KDD.</u>
+  + **Jianwei Wang**, Yuehai Wang, Kai Wang\*, Xuemin Lin, Wenjie Zhang, and Ying Zhang. [Ensemble-based Deep Multilayer Community Search](https://arxiv.org/abs/2501.02194). <u>TKDE.</u>
   + Jiawei Zhou, **Jianwei Wang\***, Chenyu Zhou, Chaojian Shi, Ming Dong, Kai Wang\*. [EvoSQL: Memory-Augmented Critic-Generator Co-Evolution for Text-to-SQL](https://arxiv.org/abs/2607.20489). <u> EMNLP findings.</u>
   + **Jianwei Wang**, Mengqi Wang, Qing Liu, Xiwei Xu, Zhenchang Xing, Liming Zhu, and Wenjie Zhang. [Agentic Open-Domain Tabular Question Answering with Self-Supervised Multi-Table Retriever](). <u> EMNLP findings.</u>
   + **Jianwei Wang**, Mengqi Wang, Yinsi Zhou, Zhenchang Xing, Qing Liu, Xiwei Xu, Wenjie Zhang, and Liming Zhu. [LLM-based HSE Compliance Assessment: Benchmark, Performance, and Advancements](https://arxiv.org/pdf/2505.22959). <u> FLINCS-ISKE.</u> <span style="color:red">**(Outstanding Paper Award)**</span>
